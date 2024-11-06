@@ -122,7 +122,7 @@ const App = () => {
           <div className="bg-[#d6d5d5ab] w-full rounded-[18px]">
             <header className="font-bold flex justify-between">
               <div className="px-5 py-5 text-[20px] flex flex-col">
-                <span className="mx-2">
+                <span className="mx-3">
                   {new Date(weatherData.dt * 1000).toLocaleDateString("en-US", {
                     weekday: "long",
                   })}
