@@ -1,5 +1,6 @@
 {
-  "name": "refs-demo-project",
+  "homepage": "https://github.com/rraushan1205/weather-app",
+  "name": "weather-app",
   "private": true,
   "version": "0.0.0",
   "homepage": "https://rraushan1205.github.io/weather-app/",
