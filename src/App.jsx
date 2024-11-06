@@ -119,7 +119,7 @@ const App = () => {
               Feels Like {weatherData.main.feels_like} °C
             </div>
           </div>
-          <div className="bg-[#d6d5d5c4] w-full rounded-[18px]">
+          <div className="bg-[#d6d5d5ab] w-full rounded-[18px]">
             <header className="font-bold flex justify-between">
               <div className="px-5 py-5 text-[20px] flex flex-col">
                 <span className="mx-2">
