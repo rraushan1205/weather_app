@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-
+import "./index.css";
 const App = () => {
   const [weatherData, setWeatherData] = useState(null);
   const [error, setError] = useState(null);
